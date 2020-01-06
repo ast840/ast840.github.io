@@ -75,7 +75,7 @@ You may find working with MESA at times confusing and frustrating. MESA is an ac
 
 ### Project
 
-In the latter part of the course, you will complete a longer project in which you will explore a current problem in stellar astrophysics using MESA. You will decide on a topic in consultation with the instructor. You will be required to submit a two-page (including references) project proposal arguing the case for your project topic and citing relevant references. Finally, you will write, in a professional style, a report summarizing your work and findings. The reports will be circulated in the class for peer-review: that is, you will review a subset of your classmates' reports, and part of your grade for this project will be based on your peer-reviews.
+In the latter part of the course, you will complete a longer project in which you will explore a current problem in stellar astrophysics using MESA. You will decide on a topic in consultation with the instructor. You will be required to submit a two-page (including references) project proposal arguing the case for your project topic and citing relevant references. Finally, you will write, in a professional style, a report summarizing your work and findings. 
 
 ### Final exam
 
