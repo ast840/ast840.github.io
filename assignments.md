@@ -7,8 +7,15 @@ title: Assignments
 
 For due dates see the [course schedule](schedule.md).
 
+[Assignment 0 - Practice](assignments/assignment0.pdf)
+
 ## Pre-class
+
+[PCA 1](assignments/pca1.md)
+[PCA 2](assignments/pca2.md)
 
 ## Homework 
 
 ## MESA 
+
+[MESA 1](assignments/mesa1.md)
