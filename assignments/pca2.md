@@ -1,4 +1,4 @@
-# Pre-class Assignment 2, due 1/16
+# Pre-class Assignment 2, due 1/21
 
 ## AST 840: Stellar Astrophysics, Spring 2020, Michigan State
 
