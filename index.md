@@ -20,7 +20,7 @@ This course emphasizes both stellar phenomenology and the physical processes tha
 Prof. Sean M. Couch  
 Office: 3260 Biomedical and Physical Sciences  
 Office phone: (517) 884-5035  
-Office hours: MW, 11 am - 12 pm  
+Office hours: M 11 am - 12 pm, W 12:30 pm - 1:30 pm 
 [scouch@msu.edu](mailto:scouch@msu.edu)  
 [www.pa.msu.edu/~couch](http://www.pa.msu.edu/~couch)
 
