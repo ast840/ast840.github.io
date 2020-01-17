@@ -13,8 +13,8 @@ Date  | Topic                        | Pre-class | Assignment due
 1/9   | No lecture, work on [MESA 1](assignments/mesa1.md)   | |
 1/14  | Eqns. of Stellar Structure   | [PCA 1](assignments/pca1.md) | [MESA 1](assignments/mesa1.md)
 1/16  | Eqns. of Stellar Structure                   |  |
-1/21  | Polytropes            | [PCA 2](assignments/pca2.md) |
-1/23  | Equation of State            |  |
+1/21  | Polytropes                   | [PCA 2](assignments/pca2.md) |
+1/23  | Equation of State            | [PCA 3](assignments/pca3.md) |
 1/28  | Equation of State            |  |
 1/30  | Radiation transport          |  | 
 2/4   | Radiation transport          |  |

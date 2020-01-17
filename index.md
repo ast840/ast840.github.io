@@ -30,7 +30,7 @@ The class meets Tuesdays and Thursdays from 12:40 pm to 2 pm in [119 Farrall Ag 
 
 Any relevant lecture material will be posted to [Lectures](lectures.md).
 
-### Communication and Slack
+### Communication and Mattermost
 
 The primary vehicle for communication regarding this course will be the Physics and Astronomy [Mattermost](https://5fcw2e.stackhero-network.com).
 There is a `ast840ss20` channel in the Mattermost workspace that you should verify you are a member of.

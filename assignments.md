@@ -11,8 +11,9 @@ For due dates see the [course schedule](schedule.md).
 
 ## Pre-class
 
-[PCA 1](assignments/pca1.md)
-[PCA 2](assignments/pca2.md)
+[PCA 1](assignments/pca1.md)  
+[PCA 2](assignments/pca2.md)  
+[PCA 3](assignments/pca3.md)
 
 ## Homework 
 
