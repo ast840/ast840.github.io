@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 1, Due 2/4
 
 ## AST 840: Stellar Astrophysics, Spring 2020, Michigan State
 
