@@ -7,7 +7,7 @@ title: Course Schedule
 
 The class will follow this _tentative_ schedule. Updates will be posted here and on the course Mattermost channel! 
 
-Date  | Topic                        | Notes | Pre-class | Assignment due
+Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-class | Assignment due
 ------|------------------------------|-------|-----------|----------------
 1/7   | Intro, Sun on the Blackboard | Ch. 1, 2 | | 
 1/9   | No lecture, work on [MESA 1](assignments/mesa1.md)   | |
