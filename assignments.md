@@ -17,6 +17,8 @@ For due dates see the [course schedule](schedule.md).
 
 ## Homework 
 
+[HW 1](assignments/hw1.md)
+
 ## MESA 
 
 [MESA 1](assignments/mesa1.md)

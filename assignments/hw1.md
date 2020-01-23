@@ -1,13 +1,14 @@
 # Homework 1
 
-## AST 900: Numerical Relativity, Spring 2019, Michigan State
+## AST 840: Stellar Astrophysics, Spring 2020, Michigan State
 
-All of the following exercises are from **TB**, Thorne & Blandford, [Modern Classical Physics](http://catalog.lib.msu.edu/record=b12356242~S39a).
+All of the following exercises are from the course lecture notes, available [here](../assets/stellar-notes.pdf).
 
 ### Problems
 
-1. Exercise 1.5: _Meaning of Slot-Naming Index Notation_
-2. Exercise 1.6: _Rotation in x, y Plane_
-3. Exercise 1.7: _Properties of the Levi-Civita Tensor_
-4. Exercise 1.10: _Volume Elements in Cartesian Coordinates_
-5. Exercise 1.12: _Faraday's Law of Induction_
+1. Exercise 2.2
+2. Exercise 2.3
+3. Exercise 2.5
+4. Exercise 3.3
+5. Exercise 4.1
+6. In general relativity, pressure acts as a source of gravity as it is just another form of energy. Assuming the ideal gas law, estimate the temperature at which Newtonian gravity would break down and a general relativistic treatment would be required. As simple order-of-magnitude estimate will suffice.
