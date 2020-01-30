@@ -22,4 +22,5 @@ For due dates see the [course schedule](schedule.md).
 
 ## MESA 
 
-[MESA 1](assignments/mesa1.md)
+[MESA 1](assignments/mesa1.md)  
+[MESA 2](assignments/mesa2.md)

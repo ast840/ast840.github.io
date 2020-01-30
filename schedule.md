@@ -16,7 +16,7 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 1/21  | Polytropes                   | Ch. 4 |  [PCA 2](assignments/pca2.md) |
 1/23  | Equation of State            | Ch. 5, 6 | [PCA 3](assignments/pca3.md) |
 1/28  | Equation of State            | Ch. 6 |  |
-1/30  | Equation of State          | Ch. 6 | [PCA4](assignments/pca4.md) |
+1/30  | Equation of State            | Ch. 6 | [PCA4](assignments/pca4.md) | [MESA 2](assignments/mesa2.md)
 2/4   | Radiation transport          |  | | [HW1](assignments/hw1.md)
 2/6   | Heat conduction              |  | |
 2/11  | Convection                   |  | |
