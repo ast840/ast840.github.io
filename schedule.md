@@ -18,8 +18,8 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 1/28  | Equation of State            | Ch. 6 |  |
 1/30  | Equation of State            | Ch. 6 | [PCA4](assignments/pca4.md) | [MESA 2](assignments/mesa2.md)
 2/4   | Radiation transport          | Ch. 7 | [PCA5](assignments/pca5.md) | [HW1](assignments/hw1.md)
-2/6   | Radiation transport          | Ch. 7 | | 
-2/11  | Heat conduction              |  | |
+2/6   | Radiation transport          | Ch. 7 | [PCA6](assignments/pca6.md) | 
+2/11  | Heat conduction              | Ch. 8 | |
 2/13  | Convection                   |  | |
 2/18  | Convection                   |  | |
 2/20  | Nuclear physics              |  | | 
