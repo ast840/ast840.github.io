@@ -20,8 +20,8 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 2/4   | Radiation transport          | Ch. 7 | [PCA5](assignments/pca5.md) | [HW1](assignments/hw1.md)
 2/6   | Radiation transport          | Ch. 7 | [PCA6](assignments/pca6.md) | 
 2/11  | Heat conduction              | Ch. 8 | |
-2/13  | Convection                   |  | |
-2/18  | Convection                   |  | |
+2/13  | Convection                   | Ch. 9 | [PCA 7](assignments/pca7.md) |
+2/18  | Convection                   | Ch. 9 | |
 2/20  | Nuclear physics              |  | | 
 2/25  | Nuclear physics              |  | |
 2/27  | Nuclear physics              |  | |
