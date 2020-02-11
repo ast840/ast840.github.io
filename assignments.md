@@ -21,9 +21,11 @@ For due dates see the [course schedule](schedule.md).
 
 ## Homework 
 
-[HW 1](assignments/hw1.md)
+[HW 1](assignments/hw1.md)  
+[HW 2](assignments/hw2.md)
 
 ## MESA 
 
 [MESA 1](assignments/mesa1.md)  
-[MESA 2](assignments/mesa2.md)
+[MESA 2](assignments/mesa2.md)  
+[MESA 3](assignments/pca7.md) (Part of [PCA 7](assignments/pca7.md))

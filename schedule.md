@@ -24,7 +24,7 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 2/18  | Convection                   | Ch. 9 | |
 2/20  | Nuclear physics              |  | | 
 2/25  | Nuclear physics              |  | |
-2/27  | Nuclear physics              |  | |
+2/27  | Nuclear physics              |  | | [HW2](assignments/hw2.md)
 3/3   | *Spring Break*               |  | |
 3/5   | *Spring Break*               |  | |
 3/10  | Star formation               |  | | Project proposals
