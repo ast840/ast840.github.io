@@ -24,10 +24,10 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 2/18  | Convection                   | Ch. 9 | |
 2/20  | Nuclear physics              |  | | 
 2/25  | Nuclear physics              |  | |
-2/27  | Nuclear physics              |  | | [HW2](assignments/hw2.md)
+2/27  | Nuclear physics              |  | | 
 3/3   | *Spring Break*               |  | |
 3/5   | *Spring Break*               |  | |
-3/10  | Star formation               |  | | Project proposals
+3/10  | Star formation               |  | | [HW2](assignments/hw2.md), Project proposals
 3/12  | Star formation               |  | |
 3/17  | The Main Sequence            |  | |
 3/19  | Rotation and magnetic fields |  | |
