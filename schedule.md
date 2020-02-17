@@ -22,9 +22,9 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 2/11  | Heat conduction              | Ch. 8 | |
 2/13  | Convection                   | Ch. 9 | [PCA 7](assignments/pca7.md) |
 2/18  | Convection                   | Ch. 9 | |
-2/20  | Nuclear physics              |  | | 
-2/25  | Nuclear physics              |  | |
-2/27  | Nuclear physics              |  | | 
+2/20  | Nuclear physics              | Ch. 10 | [PCA8](assignments/pca8.md) | 
+2/25  | Nuclear physics              | Ch. 10 | |
+2/27  | Nuclear physics              | Ch. 10  | | 
 3/3   | *Spring Break*               |  | |
 3/5   | *Spring Break*               |  | |
 3/10  | Star formation               |  | | [HW2](assignments/hw2.md), Project proposals
