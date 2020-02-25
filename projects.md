@@ -1,6 +1,6 @@
 # Course Project
 
-Please see the [MESA Marketplace](http://cococubed.asu.edu/mesa\_market/index.html) for an extensive list of projects that have used MESA and related material (including inlists!).
+Please see the [MESA Marketplace](http://cococubed.asu.edu/mesa_market/index.html) for an extensive list of projects that have used MESA and related material (including inlists!).
 
 ## Past project topics and abstracts
 
