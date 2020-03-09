@@ -27,8 +27,8 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 2/27  | SNOW DAY              | Ch. 10  | | 
 3/3   | *Spring Break*               |  | |
 3/5   | *Spring Break*               |  | |
-3/10  | Nuclear physics               |  | | Project proposals
-3/12  | Star formation               |  | | [HW2](assignments/hw2.md)
+3/10  | Nuclear physics               | Ch. 10  | | Project proposals
+3/12  | Star formation               | Ch. 11 | [PCA9](assignments/pca9.md) | [HW2](assignments/hw2.md)
 3/17  | The Main Sequence            |  | |
 3/19  | Rotation and magnetic fields |  | |
 3/24  | Post-main sequence: Low-mass |  | |
