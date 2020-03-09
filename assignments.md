@@ -18,7 +18,8 @@ For due dates see the [course schedule](schedule.md).
 [PCA 5](assignments/pca5.md)  
 [PCA 6](assignments/pca6.md)  
 [PCA 7](assignments/pca7.md)  
-[PCA 8](assignments/pca8.md)
+[PCA 8](assignments/pca8.md)  
+[PCA 9](assignments/pca9.md)
 
 ## Homework 
 
