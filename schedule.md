@@ -29,11 +29,12 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 3/5   | *Spring Break*               |  | |
 3/10  | Nuclear physics               | Ch. 10  | | Project proposals
 3/12  | Star formation               | Ch. 11 | [PCA9](assignments/pca9.md) | [HW2](assignments/hw2.md)
-3/17  | The Main Sequence            |  | |
-3/19  | Rotation and magnetic fields |  | |
-3/24  | Post-main sequence: Low-mass |  | |
-3/26  | White dwarfs                 |  | |
+3/17  | Star formation |            Ch. 11 
+3/19  | The Main Sequence            | Ch. 12 | [PCA10](assignments/pca10.md) |
+3/24  | Rotation and magnetic fields |  | |
+3/26  | Post-main sequence: Low-mass |  | |
 3/31  | White dwarfs                 |  | |
+4/2  | White dwarfs                 |  | |
 4/7  | Massive stars                |  | |
 4/9   | Massive stars                |  | |
 4/14   | Binaries                     |  | |
