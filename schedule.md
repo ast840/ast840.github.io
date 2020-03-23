@@ -31,13 +31,14 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 3/12  | Star formation               | Ch. 11 | [PCA9](assignments/pca9.md) | [HW2](assignments/hw2.md)
 3/17  | Star formation |            Ch. 11 
 3/19  | The Main Sequence            | Ch. 12 | [PCA10](assignments/pca10.md) |
-3/24  | Rotation and magnetic fields |  | |
-3/26  | Post-main sequence: Low-mass |  | |
-3/31  | White dwarfs                 |  | |
-4/2  | White dwarfs                 |  | |
-4/7  | Massive stars                |  | |
-4/9   | Massive stars                |  | |
-4/14   | Binaries                     |  | |
-4/16  | Binaries                     |  | |
-4/21  | Asteroseismology             |  | |
-4/23  | Asteroseismology             |  | | Project report 
+3/24  | Post-main sequence: Low-mass | Ch. 13 | [PCA11](assignments/pca11.md) |
+3/26  | Horizontal Branch and AGB    |  | [PCA12](assignments/pca12.md) |
+3/31  | End States: Low-mass         |  | [PCA13](assignments/pca13.md) |
+4/2   | Massive stars                 |  | [PCA14](assignments/pca14.md) |
+4/7   | Massive stars: end states     |  | [PCA15](assignments/pca15.md) |
+4/9   | Rotation and magnetic fields |  | [PCA16](assignments/pca16.md) |
+4/14  | Binaries                     |  | [PCA17](assignments/pca17.md) |
+4/16  | Pulsators                     |  | [PCA18](assignments/pca18.md) |
+4/21  | Asteroseismology             |  | [PCA19](assignments/pca19.md) |
+4/23  | TBD             |  | | Project report 
+
