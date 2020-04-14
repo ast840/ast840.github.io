@@ -1,5 +1,7 @@
 # Course Project
 
+Please see the template and README available in the [shared Google Drive](https://drive.google.com/open?id=1jAB\_d6Nr-d03z3EAM7wdpS11dr1qCYye) (Must log in with MSU NetID!).
+
 Please see the [MESA Marketplace](http://cococubed.asu.edu/mesa_market/index.html) for an extensive list of projects that have used MESA and related material (including inlists!).
 
 ## Past project topics and abstracts
