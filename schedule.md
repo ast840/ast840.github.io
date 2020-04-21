@@ -40,4 +40,4 @@ Date  | Topic                        | [Notes](assets/stellar-notes.pdf) | Pre-c
 4/14 | Rotation and magnetic fields |  | [PCA16](assignments/pca16.md) |
 4/16  | Binaries                     |  | [PCA17](assignments/pca17.md) |
 4/21  | Pulsators                     |  | [PCA18](assignments/pca18.md) |
-4/23  | Asteroseismology             |  | [PCA19](assignments/pca19.md) | Project report
+4/23  | Atmospheres             |  | [PCA19](assignments/pca19.md) | Project report
